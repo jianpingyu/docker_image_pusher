@@ -1,1 +1,2 @@
 bitnami/sonarqube:7
+bitnami/postgresql:10
