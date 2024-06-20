@@ -1,2 +1,2 @@
-bitnami/sonarqube:7
-bitnami/postgresql:10
+bitnami/sonarqube:9
+bitnami/postgresql:13
