@@ -1,2 +1,1 @@
-bitnami/sonarqube:10
-bitnami/postgresql:16
+python:3.9-slim
