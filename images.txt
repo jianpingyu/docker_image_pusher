@@ -1,1 +1,1 @@
-python:3.9-slim
+neszt/cppcheck-docker:2.14.2
