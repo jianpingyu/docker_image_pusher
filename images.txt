@@ -1,1 +1,1 @@
-liaosnet/gbase8s
+openeuler/openeuler
