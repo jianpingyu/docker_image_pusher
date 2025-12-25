@@ -6,4 +6,4 @@ ubuntu/mysql:8.0-22.04_edge
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
---platform=linux/arm64 linux/amd64
+#--platform=linux/arm64 linux/amd64
